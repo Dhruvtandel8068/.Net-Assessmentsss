@@ -1,0 +1,23 @@
+@model Assessment8.Models.Student
+
+<h2>Create Student</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+    <div>
+        <label>Age:</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+    <div>
+        <label>Course:</label>
+        <input asp-for="Course" />
+        <span asp-validation-for="Course" style="color:red"></span>
+    </div>
+    <button type="submit">Create</button>
+    <a asp-action="Index">Back</a>
+</form>

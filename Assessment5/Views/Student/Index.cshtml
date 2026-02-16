@@ -1,0 +1,36 @@
+@model List<Assessment5.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h3>Student List</h3>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Marks</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Marks</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h4>Student Summary (Partial View Below)</h4>
+
+@foreach (var student in Model)
+{
+    <partial name="_StudentSummary" model="student" />
+}

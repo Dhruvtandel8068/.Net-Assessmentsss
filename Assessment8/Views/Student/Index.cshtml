@@ -1,0 +1,25 @@
+@model IEnumerable<Assessment8.Models.Student>
+
+<h2>Students</h2>
+<a asp-action="Create">Add New Student</a>
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Course</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var student in Model)
+    {
+        <tr>
+            <td>@student.Name</td>
+            <td>@student.Age</td>
+            <td>@student.Course</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@student.Id">Details</a> |
+                <a asp-action="Edit" asp-route-id="@student.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@student.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

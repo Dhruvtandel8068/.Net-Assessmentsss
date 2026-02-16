@@ -1,0 +1,43 @@
+C:\Users\Lenovo\Desktop\.net\Assessment2\bin\Debug\net10.0\Assessment2.exe
+C:\Users\Lenovo\Desktop\.net\Assessment2\bin\Debug\net10.0\Assessment2.deps.json
+C:\Users\Lenovo\Desktop\.net\Assessment2\bin\Debug\net10.0\Assessment2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\.net\Assessment2\bin\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net\Assessment2\bin\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\refint\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\Assessment2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\.net\Assessment2\obj\Debug\net10.0\ref\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\bin\Debug\net10.0\Assessment2.exe
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\bin\Debug\net10.0\Assessment2.deps.json
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\bin\Debug\net10.0\Assessment2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\bin\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\bin\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\refint\Assessment2.dll
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\Assessment2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\.net-Assessment\Assessment2\obj\Debug\net10.0\ref\Assessment2.dll
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\bin\Debug\net10.0\Assessment2.exe
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\bin\Debug\net10.0\Assessment2.deps.json
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\bin\Debug\net10.0\Assessment2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\bin\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\bin\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.sourcelink.json
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.dll
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\refint\Assessment2.dll
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.pdb
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\Assessment2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\.NET Assessments\Assessment2\obj\Debug\net10.0\ref\Assessment2.dll

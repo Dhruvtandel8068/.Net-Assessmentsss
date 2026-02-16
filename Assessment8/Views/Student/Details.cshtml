@@ -1,0 +1,17 @@
+@model Assessment8.Models.Student
+
+<h2>Student Details</h2>
+
+<div>
+    <label>Name:</label> @Model.Name
+</div>
+<div>
+    <label>Age:</label> @Model.Age
+</div>
+<div>
+    <label>Course:</label> @Model.Course
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+<a asp-action="Delete" asp-route-id="@Model.Id">Delete</a> |
+<a asp-action="Index">Back to List</a>
