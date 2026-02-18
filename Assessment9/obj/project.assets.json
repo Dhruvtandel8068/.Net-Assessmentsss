@@ -3668,11 +3668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment9\\Assessment9.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment9\\Assessment9.csproj",
       "projectName": "Assessment9",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment9\\Assessment9.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment9\\Assessment9.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment9\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

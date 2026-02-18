@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxpbHsGh1xE=",
+  "dgSpecHash": "i89IYUv2wbA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\Assessment8.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\Assessment8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -62,9 +62,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.AspNetCore.Mvc will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\Assessment8.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\Assessment8.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\Assessment8.csproj",
+      "filePath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\Assessment8.csproj",
       "libraryId": "Microsoft.AspNetCore.Mvc",
       "targetGraphs": [
         "net10.0"

@@ -3234,11 +3234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\Assessment8.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\Assessment8.csproj",
       "projectName": "Assessment8",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\Assessment8.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\Assessment8.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\.NET Assessments\\Assessment8\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\.Net Assessmentsss\\Assessment8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
