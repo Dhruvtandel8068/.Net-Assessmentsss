@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment12Auth", "Assignment12Auth.csproj", "{EA4D368F-4C04-E984-2102-2AE46B601368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4D368F-4C04-E984-2102-2AE46B601368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4D368F-4C04-E984-2102-2AE46B601368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4D368F-4C04-E984-2102-2AE46B601368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4D368F-4C04-E984-2102-2AE46B601368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE0888B-719E-42D3-87F0-2D2F2E2112CD}
+	EndGlobalSection
+EndGlobal
