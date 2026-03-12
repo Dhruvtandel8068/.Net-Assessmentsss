@@ -1,22 +1,18 @@
-using Microsoft.Extensions.Logging;
-using System.Threading.Tasks;
+namespace Assessment14.Services;
 
-namespace AspNetCoreBackgroundDemo.Services
+public class SmsService
 {
-    public class SmsService
+    private readonly ILogger<SmsService> _logger;
+
+    public SmsService(ILogger<SmsService> logger)
     {
-        private readonly ILogger<SmsService> _logger;
+        _logger = logger;
+    }
 
-        public SmsService(ILogger<SmsService> logger)
-        {
-            _logger = logger;
-        }
-
-        public Task SendSmsAsync(string phoneNumber, string message)
-        {
-            // Mock sending SMS by logging
-            _logger.LogInformation("SMS sent to {phoneNumber}: {message}", phoneNumber, message);
-            return Task.CompletedTask;
-        }
+    public Task SendSmsAsync(string phone, string message)
+    {
+        // ✅ Simulation (mock)
+        _logger.LogInformation("SIMULATED SMS => Phone:{phone}, Message:{message}", phone, message);
+        return Task.CompletedTask;
     }
 }

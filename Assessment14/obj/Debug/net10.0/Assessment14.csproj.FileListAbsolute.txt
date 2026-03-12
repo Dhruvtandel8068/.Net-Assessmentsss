@@ -8,6 +8,9 @@ C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Assess
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Assessment14.pdb
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\obj\Debug\net10.0\Assessment14.csproj.AssemblyReference.cache
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\Lenovo\Desktop\.Net Assessmentsss\Assessment14\obj\Debug\net10.0\Assessment14.GeneratedMSBuildEditorConfig.editorconfig
